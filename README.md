@@ -75,7 +75,7 @@ Se você gostou deste jogo ou tem ideias para melhorá-lo, não hesite em entrar
 
 MIT License
 
-Copyright (c) 2023 allmionse
+Copyright (c) 2025 allmionse
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
